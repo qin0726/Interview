@@ -1,4 +1,8 @@
 123123123
 
 
+<<<<<<< HEAD
 新文件的gaibian
+=======
+qianlo跃马
+>>>>>>> origin/master
